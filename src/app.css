@@ -1,0 +1,10 @@
+.red {
+  height: 100vh;
+  background-color: red;
+  /* margin-bottom: 100px;  */
+}
+
+.green {
+  height: 100vh;
+  background-color: green;
+}
